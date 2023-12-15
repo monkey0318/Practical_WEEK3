@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical_WEEK3</string>
+    <string name="nameTextView">Yong Sen</string>
+    <string name="nicknameTextView">Name\n</string>
+    <string name="editNickNameView">Type your NickName Here.</string>
+    <string name="confirmBtn">Confirm</string>
+    <string name="nickNameHint">Type your nick name here</string>
+</resources>
